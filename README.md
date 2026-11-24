@@ -1,21 +1,24 @@
-# Mein Deutschkurs — My German Learning Journey
+# Mein Deutschkurs — A Personal German Learning System
 
-A personalised German learning system built session by session, with an Austrian focus.
+A framework for building a personalised German course with AI, session by session. Austrian German focus.
 
-## About
+## The Method
 
-After 8 years in Vienna at A1+, it was time to get serious. This repo is a living textbook, grammar reference, and learning diary — built lesson by lesson in collaboration with Claude.
+Most language apps optimise for engagement, not learning. This system takes a different approach:
 
-**Goal:** Overall performance in Austrian daily life — professional meetings, social events, everyday interactions, Behörden — through to B2.
-
-**Approach:** Scene-first lessons anchored in real Viennese situations. No gamified apps. 15 minutes a day.
+- **Scene-first lessons** — every lesson opens with a real Austrian situation (a meeting, a café, a Behörde), not a grammar drill
+- **AI as learning partner** — Claude runs the sessions, corrects your German, keeps the diary, and builds the textbook with you
+- **15 minutes a day** — sessions are designed to fit a realistic daily window
+- **Living textbook** — lessons and reference cards grow as you progress; nothing is fixed upfront
+- **Austrian German throughout** — Grüß Gott, Jänner, Passt!, the Viennese register — not generic Hochdeutsch
 
 ## Structure
 
 ```
 ├── textbook/
 │   ├── reference/     ← 15 grammar reference cards (pronouns → Austrian German)
-│   ├── lessons/       ← scene-first lessons, built lesson by lesson
+│   ├── lessons/       ← scene-first lessons, built session by session
+│   ├── songs/         ← public domain Volkslieder with translations
 │   └── vocabulary/    ← master word list + topic lists
 ├── sessions/          ← learning diary, one entry per session
 ├── resources/         ← recommended podcasts, apps, links
@@ -24,9 +27,9 @@ After 8 years in Vienna at A1+, it was time to get serious. This repo is a livin
 └── lock.sh            ← generate PDFs from markdown
 ```
 
-## Reference Cards
+## Grammar Reference Cards
 
-The grammar handbook — browse freely, independent of lessons.
+A standalone grammar handbook — browse freely, independent of lessons. Each card has tables, examples in context, and Austrian notes.
 
 | Card | Contents |
 |------|----------|
@@ -45,6 +48,10 @@ The grammar handbook — browse freely, independent of lessons.
 | [Numbers, Dates & Time](textbook/reference/13-numbers-dates-time.md) | Austrian months, clock times |
 | [Austrian German](textbook/reference/14-austrian-german.md) | Grüß Gott, Passt!, Erdäpfel… |
 
+## Songs
+
+Public domain Austrian and German folk songs with translations, vocabulary notes, and cultural context → [textbook/songs/](textbook/songs/)
+
 ## Resources
 
 Recommended podcasts, apps, and tools → [resources/resources.md](resources/resources.md)
@@ -56,6 +63,16 @@ Recommended podcasts, apps, and tools → [resources/resources.md](resources/res
 ./lock.sh --all-reference                      # all reference cards
 ./lock.sh --all-lessons                        # all lessons
 ```
+
+## My Progress
+
+This is my personal learning journey. Sessions and progress are tracked in `sessions/`.
+
+| Lesson | Topic | Status |
+|--------|-------|--------|
+| 01 | Sich vorstellen in Wien | ✅ done |
+| 02 | Im Büro — ankommen und small talk | next |
+| … | | |
 
 ---
 
