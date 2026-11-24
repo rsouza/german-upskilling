@@ -12,6 +12,7 @@ Renato has lived in Vienna for 8 years and holds an A1 certificate but progress 
 ## Goals
 
 - Reach functional A2 within ~6 months; working B1 within ~12–18 months
+- Reach B2 (genuinely fluent in Austrian daily and professional life) within ~3 years — extended horizon, not a fixed deadline
 - Be able to follow and contribute to German-language meetings within 3 months
 - Handle everyday Austrian situations with confidence: shops, doctors, Behörden, social events, friends
 - Build a sustainable daily habit that fits a 15-min/day time budget
@@ -145,7 +146,18 @@ German_Upskilling/
 - Lesson 18: Meinungen ausdrücken
 - Lesson 19: Einkaufen und Reklamieren
 
-*Units 3 and 4 will be refined as Renato progresses — curriculum adapts to real gaps.*
+**Unit 5 — Fließend auf Österreichisch (B1→B2)**
+- Complex meeting facilitation and negotiation
+- Austrian news and media comprehension
+- Nuanced opinion and debate
+- Formal and informal written communication
+
+**Unit 6 — Meisterhaft (B2)**
+- Advanced professional Austrian German
+- Cultural fluency (humor, indirectness, Viennese register)
+- Spontaneous conversation on complex topics
+
+*Units 3–6 will be refined as Renato progresses — curriculum adapts to real gaps. B2 is an extended ambition, not a fixed deadline.*
 
 ---
 
