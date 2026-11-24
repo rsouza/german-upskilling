@@ -46,6 +46,16 @@ PDFs are locked snapshots. The `.md` files are the source of truth.
 
 ---
 
+## Songs — Lieder
+
+Public domain Austrian and German folk songs with translations and vocabulary notes.
+
+| Song | Level |
+|------|-------|
+| [Die Gedanken sind frei](songs/01-die-gedanken-sind-frei.md) | A2 |
+| [Im Frühtau zu Berge](songs/02-im-fruhtau-zu-berge.md) | A1 |
+| [An der schönen blauen Donau](songs/03-an-der-schoenen-blauen-donau.md) | B1 |
+
 ## Vocabulary
 
 - [Master list](vocabulary/master-list.md) — every word introduced in lessons

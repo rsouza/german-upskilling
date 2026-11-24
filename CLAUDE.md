@@ -31,6 +31,8 @@ A personalised German learning system for Renato, built session by session. Clau
 - **Lessons**: not started — begin with Lesson 01
 - **Vocabulary**: master list seeded in `textbook/vocabulary/master-list.md`
 - **Resources**: see `resources/resources.md`
+- **Songs**: 3 public domain Volkslieder with translations in `textbook/songs/`
+- **Transcripts**: gitignored local folder `transcripts/` — Slow German episodes, personal use only
 - **Design doc**: approved — `strategy/design.md`
 
 ---

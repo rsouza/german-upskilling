@@ -2,6 +2,11 @@
 *.docx
 *.doc
 
+# Slow German transcripts — copyrighted, personal use only
+transcripts/*.md
+transcripts/*.txt
+!transcripts/README.md
+
 # macOS
 .DS_Store
 
