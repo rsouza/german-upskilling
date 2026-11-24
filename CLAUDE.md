@@ -70,8 +70,8 @@ A personalised German learning system for Renato, built session by session. Clau
 
 | Unit | Lesson | Topic | Status |
 |------|--------|-------|--------|
-| 1 | 01 | Sich vorstellen in Wien | **← next** |
-| 1 | 02 | Im Büro — ankommen und small talk | pending |
+| 1 | 01 | Sich vorstellen in Wien | ✅ done (2026-11-24) |
+| 1 | 02 | Im Büro — ankommen und small talk | **← next** |
 | 1 | 03 | Zahlen, Datum, Uhrzeit | pending |
 | 1 | 04 | Verben im Präsens — the core 20 | pending |
 | 2 | 05 | Im Supermarkt / Beim Bäcker | pending |
