@@ -1,0 +1,10 @@
+# Source workbooks — not for version control (may contain personal data)
+*.docx
+*.doc
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
